@@ -150,6 +150,8 @@ class Calculator(QWidget):
         self.setWindowTitle('Calculator')
         self.show()
 
+//
+
 
 if __name__ == '__main__':
 
